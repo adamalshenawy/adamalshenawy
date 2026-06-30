@@ -14,12 +14,12 @@
 
 ---
 
-## 👋 About Me
+## About Me
 
 ```python
 adam = {
     "role":       "Data Analyst & AI Automation Specialist",
-    "focus":      ["Power BI", "AI Agents", "Process Automation", "Data Pipelines"],
+    "focus":      "On make life easier by automated proccess and AI",
     "philosophy": "ROI first — every solution must make or save money",
     "location":   "Cairo, Egypt",
     "status":     "Open to full-time roles & freelance projects"
