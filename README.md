@@ -59,13 +59,8 @@ From 9-page Power BI dashboards tracking 464 leads in real time, to AI agents th
 ### 📊 [Sales Pipeline Dashboard](https://github.com/adamalshenawy/sales-pipeline-dashboard)
 > **Power BI · DAX · Data Modeling · CRM Analytics**
 
-9-page interactive dashboard tracking **464 leads** across every sales stage in real time.  
-Identified an **81% interest gap** and **78% closing gap** — giving managers instant visibility into where deals were dying and which agents needed coaching.
-
-- ✅ 4 conversion gap metrics (Interest, Commitment, Show-Up, Closing)
-- ✅ Drill-through analysis per agent
-- ✅ Automatic flag when dropped leads exceed 40%
-- ✅ Campaign filter + leads distribution donut chart
+9-page interactive dashboard tracking **leads** across every sales stage in real time.  
+giving managers instant visibility into where deals were dying and which agents needed coaching.
 
 [![Live Demo](https://img.shields.io/badge/▶%20Live%20Demo-B8F564?style=for-the-badge&labelColor=0a0a0a)](https://app.powerbi.com/view?r=eyJrIjoiNWQ4MzdmN2MtY2U5Ny00NDE1LTljODAtMGM0ZmFmOGQ5ZWY1IiwidCI6ImU3ZTkxMDI3LTk2NTEtNDMxYS04ZWY3LWQyZjI5MWNhODIyMCJ9)
 [![Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/adamalshenawy/sales-pipeline-dashboard)
@@ -75,42 +70,18 @@ Identified an **81% interest gap** and **78% closing gap** — giving managers i
 ### ⚡ [Speed to Lead (STL)](https://github.com/adamalshenawy/speed-to-lead)
 > **n8n · Telegram Bot · Lead Automation**
 
-Telegram bot that detects new leads the moment they arrive, notifies managers instantly, and routes them to agents in one tap — with timestamps to prevent duplicates.  
-Reduced lead response time from hours to **near zero**.
-
-- ✅ Real-time lead detection & manager notification
-- ✅ One-tap agent assignment with timestamp logging
-- ✅ Duplicate prevention system
+Developed a Telegram bot that detects new leads the moment they arrive, instantly notifies managers, and enables one-tap lead assignment to agents. The system records timestamps to prevent duplicate assignments, reduces lead response time from hours to near zero, and automatically logs all leads in Google Sheets to track when team leaders take action on each assigned lead.
 
 [![Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/adamalshenawy/speed-to-lead)
 
 ---
 
 ### 🎙️ [Call Categorization Catalog](https://github.com/adamalshenawy/call-categorization)
-> **AI · Speech-to-Text · n8n · CRM Automation**
+> **AI · Speech-to-Text · n8n · ELevenLabs**
 
-AI engine that transcribes recorded sales calls, analyses conversations for buying signals, and automatically updates CRM stages — eliminating human bias from data entry entirely.
-
-- ✅ Audio transcription via Speech-to-Text AI
-- ✅ LLM-based conversation analysis
-- ✅ Automatic CRM stage classification & update
-- ✅ Zero manual data entry
+Developed an AI-powered engine that automatically transcribes recorded sales calls, generates concise summaries, and identifies the appropriate sales stage for each call. This eliminates the need for manual call reviews, enabling sales teams to evaluate conversations faster and streamline lead management.
 
 [![Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/adamalshenawy/call-categorization)
-
----
-
-### 🤖 [TM-RAG Agent](https://github.com/adamalshenawy/tm-rag-agent)
-> **RAG Pipeline · LLM · Telegram · Coaching Automation**
-
-Intelligent Telegram assistant for sales managers. Ask it why an agent is underperforming — it cross-references live data with internal stage logic and returns a structured root-cause diagnosis with actionable coaching steps.
-
-- ✅ RAG pipeline on internal sales data
-- ✅ Natural language query via Telegram
-- ✅ Structured coaching output per agent
-- ✅ Root-cause analysis engine
-
-[![Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/adamalshenawy/tm-rag-agent)
 
 ---
 
@@ -120,57 +91,25 @@ Intelligent Telegram assistant for sales managers. Ask it why an agent is underp
 Upload a National ID photo to Telegram → AI extracts name, ID, and address via OCR → verifies unit availability → merges data into contract template → delivers a signed-ready PDF.  
 Full contract generation in **under 60 seconds**.
 
-- ✅ OCR-based ID data extraction
-- ✅ Automated unit availability check
-- ✅ Template merge & PDF generation
-- ✅ End-to-end in one Telegram conversation
-
 [![Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/adamalshenawy/ai-contract-bot)
 
 ---
 
 ### 🏦 [Banking KPI Dashboard](https://github.com/adamalshenawy/banking-kpi-dashboard)
-> **Power BI · DAX · Banking Analytics · Thesis — Awarded: Excellent**
+> **Power BI · DAX · Banking Analytics · Graduation Project — Awarded: Excellent**
 
 Power BI dashboard monitoring core banking KPIs including loan approval rates, transaction volumes, default risk, and customer segmentation — with full drill-through and interactive filters.
-
-- ✅ Custom DAX measures for all KPIs
-- ✅ Customer retention & segmentation analysis
-- ✅ Non-performing loan risk monitoring
-- ✅ Awarded Excellent — Galala University Thesis
 
 [![Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/adamalshenawy/banking-kpi-dashboard)
 
 ---
 
 ### 🧠 [AI Sales Training Simulator](https://github.com/adamalshenawy/ai-sales-simulator)
-> **AI · LLM · Sales Training · Conversational Agent**
+> **AI · LLM · ElevenLabs · n8n**
 
 AI-powered simulation tool that trains sales agents through realistic client conversations. Simulates different client personalities, evaluates objection handling, and delivers structured performance feedback after each session.
 
-- ✅ Multiple client personality profiles
-- ✅ Real-time objection handling evaluation
-- ✅ Post-session performance feedback report
-- ✅ Tracks improvement over multiple sessions
-
 [![Repo](https://img.shields.io/badge/GitHub%20Repo-181717?style=for-the-badge&logo=github)](https://github.com/adamalshenawy/ai-sales-simulator)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=adamalshenawy&show_icons=true&theme=dark&bg_color=0a0a0a&title_color=B8F564&icon_color=B8F564&text_color=f0ede8&border_color=2a2a2a&hide_border=false" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalshenawy&layout=compact&theme=dark&bg_color=0a0a0a&title_color=B8F564&text_color=f0ede8&border_color=2a2a2a" height="165"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=adamalshenawy&theme=dark&background=0a0a0a&border=2a2a2a&ring=B8F564&fire=B8F564&currStreakLabel=B8F564&sideLabels=f0ede8&dates=8a8680)
-
-</div>
 
 ---
 
