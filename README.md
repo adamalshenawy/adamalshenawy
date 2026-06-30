@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B8F564&height=200&section=header&text=Adam%20Alshenawy&fontSize=50&fontColor=0a0a0a&fontAlignY=38&desc=Data%20Analyst%20%7C%20Power%20BI%20Developer%20%7C%20AI%20Automation%20Specialist&descAlignY=58&descSize=16&descColor=0a0a0a" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1d36a1&height=200&section=header&text=Adam%20Alshenawy&fontSize=50&fontColor=0a0a0a&fontAlignY=38&desc=Data%20Analyst%20%7C%20Power%20BI%20Developer%20%7C%20AI%20Automation%20Specialist&descAlignY=58&descSize=16&descColor=0a0a0a" width="100%"/>
 
 </div>
 
 <div align="center">
 
-![Available](https://img.shields.io/badge/🟢%20Available%20for%20Opportunities-B8F564?style=for-the-badge&labelColor=0a0a0a&color=B8F564)
+![Available](https://img.shields.io/badge/🔵%20Available%20for%20Opportunities-B8F564?style=for-the-badge&labelColor=0a0a0a&color=1d36a1)
 ![Cairo](https://img.shields.io/badge/📍%20Cairo%2C%20Egypt-111111?style=for-the-badge&labelColor=111111&color=111111)
 
 
@@ -188,7 +188,7 @@ AI-powered simulation tool that trains sales agents through realistic client con
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=B8F564&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1d36a1&height=120&section=footer" width="100%"/>
 
 </div>
 ![Uploading image.png…]()
