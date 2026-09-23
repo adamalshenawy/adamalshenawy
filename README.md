@@ -127,6 +127,6 @@ AI-powered simulation tool that trains sales agents through realistic client con
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1d36a1&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=45A9A9&height=120&section=footer" width="100%"/>
 
 </div>
