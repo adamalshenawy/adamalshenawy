@@ -16,18 +16,11 @@
 
 ## About Me
 
-```python
-adam = {
-    "role":       "Data Analyst & AI Automation Specialist",
-    "focus":      "On make life easier by automated proccess and AI",
-    "philosophy": "ROI first — every solution must make or save money",
-    "location":   "Cairo, Egypt",
-    "status":     "Open to full-time roles & freelance projects"
-}
-```
+Hi, I'm Adam, a Business Information Systems graduate working across Data Analytics, Power BI, and AI Automation.
 
-I turn **raw, scattered data** into clear business decisions — and **manual workflows** into automated systems that run themselves.  
-From 9-page Power BI dashboards tracking 464 leads in real time, to AI agents that read audio, update CRMs, and generate contracts in under 60 seconds.
+I enjoy taking messy data and turning it into something people can actually understand, and turning repetitive manual work into systems that do the work automatically.
+
+I’m particularly interested in the intersection between data, technology, and business, not just building something because I can, but building something that solves a real problem.
 
 ---
 
@@ -51,6 +44,8 @@ From 9-page Power BI dashboards tracking 464 leads in real time, to AI agents th
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white)
 ![Manychat](https://img.shields.io/badge/Manychat-00AFF0?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-EC5B38?style=for-the-badge&logo=claude&logoColor=white)
+
 
 ---
 
